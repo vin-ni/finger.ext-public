@@ -1,0 +1,44 @@
+{
+  "thinking-1": [
+    {"name":"Right-Up","duration":0.3,"pause":0,"servo1":75,"servo2":18.6,"servo3":31.1, "instant": false},
+    {"name":"Left-Up","duration":0.3,"pause":0,"servo1":75,"servo2":18.6,"servo3":111.7, "instant": false},
+    {"name":"Right-Up","duration":0.3,"pause":0,"servo1":75,"servo2":18.6,"servo3":52.4, "instant": false},
+    {"name":"Left-Up","duration":0.3,"pause":0,"servo1":75,"servo2":18.6,"servo3":113, "instant": false}
+  ],
+  "winky-1": [
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":150,"servo2":104.7,"servo3":108.1,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":105.3,"servo2":73.3,"servo3":61.6,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":44.8,"servo2":7.5,"servo3":115.6,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":108,"servo2":49.9,"servo3":45.3,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":150,"servo2":104.7,"servo3":108.1,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":105.3,"servo2":73.3,"servo3":61.6,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":44.8,"servo2":7.5,"servo3":115.6,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":108,"servo2":49.9,"servo3":45.3,"instant":false}
+  ],
+  "swipe-1": [
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":80,"servo3":150,"instant":false},
+    {"name":"Animation1","duration":0.3,"pause":0,"servo1":89.1,"servo2":80,"servo3":150,"instant":true},
+    {"name":"Animation1","duration":0.2,"pause":0,"servo1":89.1,"servo2":80,"servo3":13.6,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":26.7,"servo3":13.6,"instant":false}
+  ],
+  "like": [
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":60,"servo3":61.4,"instant":false},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":85,"servo3":61.4,"instant":true},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":85,"servo3":61.4,"instant":true},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":60,"servo3":61.4,"instant":true},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":85,"servo3":61.4,"instant":true},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":85,"servo3":61.4,"instant":true},
+    {"name":"Animation1","duration":0.5,"pause":0,"servo1":89.1,"servo2":60,"servo3":61.4,"instant":true}
+  ],
+  "idle-1": [
+    {"name":"Idle1","duration":1,"pause":1,"servo1":0,"servo2":8.2,"servo3":0,"instant":false},
+    {"name":"Idle1","duration":1,"pause":1,"servo1":0,"servo2":38.5,"servo3":0,"instant":false},
+    {"name":"Idle1","duration":1,"pause":1,"servo1":0,"servo2":8.2,"servo3":0,"instant":false}
+  ],
+  "idle-2": [
+    {"name":"Idle2","duration":0.5,"pause":5,"servo1":0,"servo2":8.2,"servo3":0,"instant":false},
+    {"name":"Idle2","duration":0.5,"pause":5,"servo1":91.1,"servo2":8.2,"servo3":0,"instant":false},
+    {"name":"Idle2","duration":0.5,"pause":5,"servo1":0,"servo2":8.2,"servo3":0,"instant":false}
+  ]
+
+}
